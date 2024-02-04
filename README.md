@@ -1,4 +1,4 @@
-# SchoolProjects
+# School Projects
 
 This is a collection of assignments and projects from various computer science courses.
 
